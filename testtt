@@ -1,3 +1,9 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+brew install autoconf automake berkeley-db4 gmp boost@1.60 miniupnpc 
+
+
+
 sudo mv boost@1.60 /usr/local/opt/
 sudo cp -r berkeley-db@4 gmp libevent miniupnpc openssl /usr/local/opt/
 sudo cp -r Cellar /usr/local/
