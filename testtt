@@ -7,3 +7,7 @@ brew install autoconf automake berkeley-db4 gmp boost@1.60 miniupnpc
 sudo mv boost@1.60 /usr/local/opt/
 sudo cp -r berkeley-db@4 gmp libevent miniupnpc openssl /usr/local/opt/
 sudo cp -r Cellar /usr/local/
+
+
+MiYS4tu81qwYnZ4HiVy58hTfJgAXJj7HFZ
+MXbGRgaJ5Y3H7WqfNQ3kbnpf2HzoUFrzLV
