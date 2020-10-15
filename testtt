@@ -14,3 +14,11 @@ MXbGRgaJ5Y3H7WqfNQ3kbnpf2HzoUFrzLV
 
 
 MbtjX9Jr8DPJWXjGGXRXGe1mbPE59ys5tC
+
+
+createrawtransaction
+    '[{
+        "txid" : "9f33ea27e986ccd04ccb1faab95365e503b69813706bea91a6bc384817ddb1e4",
+        "vout" : 2
+    }]'
+    '{"MXa15MF7WEtXpFR7DuKoN4s2SbPaNR2G2s": 0.11, "Md9q6RUmKYcrEnMX4h33iED6sSb5pBVLqu": 0.108}'
